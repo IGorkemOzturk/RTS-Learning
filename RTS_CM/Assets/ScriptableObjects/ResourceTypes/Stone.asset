@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66dcbb412cc94c84d96b3d4e90cc1163, type: 3}
-  m_Name: Wood 1
+  m_Name: Stone
   m_EditorClassIdentifier: 
-  nameString: 
+  nameString: Stone

@@ -16,6 +16,7 @@ public class BuldingManager : MonoBehaviour
     }
     private void Start()
     {
+       
         mainCamera = Camera.main;
 
     }
